@@ -1,0 +1,44 @@
+[
+    {
+        "id": "11",
+        "url": "https://mozart.discmuseum.com/data/music/mp3/8/2/6/8269f7078d6ff7e9e858a781742314a8.mp3",
+        "title": "Playlist Song 1",
+        "artist": "Vialma for you...!",
+        "artwork": "https://vialma.com"
+    },
+    {
+        "id": "22",
+        "url": "https://mozart.discmuseum.com/data/music/mp3/c/8/a/c8a92e355939a10b800c74b03c353213.mp3",
+        "title": "Playlist Song 2",
+        "artist": "Vialma for you...!",
+        "artwork": "https://vialma.com"
+    },
+    {
+        "id": "3333",
+        "url": "https://mozart.discmuseum.com/data/music/mp3/7/d/9/7d9b8222ab3ae7b88ef12b1e6cee3aea.mp3",
+        "title": "Playlist Song 3",
+        "artist": "Vialma for you...!",
+        "artwork": "https://picsum.photos/200"
+    },
+    {
+        "id": "3334",
+        "url": "https://mozart.discmuseum.com/data/music/mp3/4/f/c/4fce1023ea98cda247e6057807b771a4.mp3",
+        "title": "Playlist Song 4",
+        "artist": "Vialma for you...!",
+        "artwork": "https://picsum.photos/200"
+    },
+    {
+        "id": "3335",
+        "url": "https://mozart.discmuseum.com/data/music/mp3/2/4/b/24baccc1480f5fcdb63f24b66753bb05.mp3",
+        "title": "Playlist Song 5",
+        "artist": "Vialma for you...!",
+        "artwork": "https://picsum.photos/200"
+    },
+    {
+        "id": "3336",
+        "url": "https://mozart.discmuseum.com/data/music/mp3/d/d/9/dd92069edf3b1ca5669c8cd739e37dab.mp3",
+        "title": "Playlist Song 6",
+        "artist": "Vialma for you...!",
+        "artwork": "https://picsum.photos/200"
+    }
+]
